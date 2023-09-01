@@ -24,7 +24,8 @@
 - git clone https://github.com/MuksudulIslam/Random-User-API-Performance-Test
 
 ## HTML Reports:
-![screencapture-file-D-jmeter-HTML-report-index-html-2023-09-01-14_46_25](https://github.com/MuksudulIslam/Random-User-API-Performance-Test/assets/143453305/392af4cc-24c2-4863-875c-6536c0d17888)
+![html report for random api](https://github.com/MuksudulIslam/Random-User-API-Performance-Test/assets/143453305/c00fde22-0c8a-4f6a-aed7-5b5cd999f9e8)
+
 
 
 
